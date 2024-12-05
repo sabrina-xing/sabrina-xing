@@ -15,10 +15,10 @@ I'm in my third year of **Computer Science** at the University of Waterloo, acti
 - **CS50’s Intro to Artificial Intelligence with Python:** Expanding my knowledge of AI concepts, machine learning, and real-world applications of Python in AI using Harvard course on edX
 
 ### 📚 **Books I'm Reading:**
-- Targeted by Brittany Kaiser: A deep dive into data privacy and political influence in the digital age.
-- Slaughterhouse-Five by Kurt Vonnegut: A timeless exploration of war, trauma, and the human condition.
+- Targeted by Brittany Kaiser
+- Slaughterhouse-Five by Kurt Vonnegut
 
 ### 🤝 **Let’s Connect!**
-I'm always open to feedback, collaboration, and new ideas. If you think I could be a good fit for your team or if you'd like to chat about tech, reach out!
+I'm always open to feedback, collaboration, new ideas and book recs. If you think I could be a good fit for your team or if you'd like to chat about tech, reach out!
 - Email: s2xing@uwaterloo.ca
 - LinkedIn: [Sabrina Xing](https://www.linkedin.com/in/sabrina-xing/)
