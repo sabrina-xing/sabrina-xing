@@ -1,19 +1,24 @@
-## Hey there! 👋 I'm [Your Name]
+## Hey there! 👋 I'm Sabrina
 
-I'm a third-year **Computer Science**, currently seeking **Summer 2025** SWE internship opportunities
+I'm in my third year of **Computer Science** at the University of Waterloo, actively seeking **Summer 2025** **Software Engineering Internship** opportunities to contribute to impactful projects, gain hands-on experience, and further develop my technical expertise.
 
-Previously, I've worked at Marsh McLennan and AlertDriving using tools and languages like Python, TypeScript, SQL, React, Postgres, MERN Stack (MongoDB, Express.js, React.js, Node.js), Docker and Git
+### 🌟 Experience:
+- **AlertDriving**: Built and optimized a **Python-based** driver training platform, with API and database integration.
+- **Marsh McLennan**: Developed apps using **MERN stack** (MongoDB, Express, React, Node.js), focusing on automation.
+- **KEEPLabs**: Led **AI-driven projects** using **Python**, **GPT-3**, and **React Native** for mobile development.
+  
+### 💻 Skills:
+- **Languages/Frameworks**: Python, Java, C++, C, TypeScript, SQL, React, MERN Stack (MongoDB, Express, Node), JavaScript
+- **Tools**: Git, Docker, PostgreSQL, Firebase, Datadog, AWS
 
-### 🔭 Currently working on:
-- **CS50 Introduction to Artificial Intelligence with Python** - Self-studying a Harvard level course using edX
+### 💡 **Currently Working On:**
+- **CS50’s Intro to Artificial Intelligence with Python:** Expanding my knowledge of AI concepts, machine learning, and real-world applications of Python in AI using Harvard course on edX
 
-### 📚 Currently I'm reading:
-- Targeted by Brittany Kaiser
-- Slaughterhouse-Five by Kurt Vonnegut
+### 📚 **Books I'm Reading:**
+- Targeted by Brittany Kaiser: A deep dive into data privacy and political influence in the digital age.
+- Slaughterhouse-Five by Kurt Vonnegut: A timeless exploration of war, trauma, and the human condition.
 
-### 🤔 I'm always open to feedback, questions, or ideas!
-Feel free to open an issue or a pull request, and reach out if you think I would be a good addition to your team!
-
-### 📫 How to reach me:
+### 🤝 **Let’s Connect!**
+I'm always open to feedback, collaboration, and new ideas. If you think I could be a good fit for your team or if you'd like to chat about tech, reach out!
 - Email: s2xing@uwaterloo.ca
 - LinkedIn: [Sabrina Xing](https://www.linkedin.com/in/sabrina-xing/)
