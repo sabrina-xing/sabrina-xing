@@ -3,8 +3,8 @@
 I'm in my third year of **Computer Science** at the University of Waterloo, actively seeking **Summer 2025** **Software Engineering Internship** opportunities to contribute to impactful projects, gain hands-on experience, and further develop my technical expertise.
 
 ### 🌟 Experience:
-- **AlertDriving**: Built and optimized a **Python-based** driver training platform, with API and database integration.
-- **Marsh McLennan**: Developed apps using **MERN stack** (MongoDB, Express, React, Node.js), focusing on automation.
+- **AlertDriving**: Developed and optimized a **Python-based** driver training platform, with API and database integration.
+- **Marsh McLennan**: Developed workflow apps using **MERN stack** (MongoDB, Express, React, Node.js), focusing on automation.
 - **KEEPLabs**: Led **AI-driven projects** using **Python**, **GPT-3**, and **React Native** for mobile development.
   
 ### 💻 Skills:
