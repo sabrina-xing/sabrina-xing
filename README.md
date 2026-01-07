@@ -19,7 +19,7 @@ I'm in my fourth year of **Computer Science** at the University of Waterloo, act
 
 ### 📚 **Books on my Desk:**
 - Targeted by Brittany Kaiser
-- Slaughterhouse-Five by Kurt Vonnegut
+- The Art of Gathering by Priya Parker
 
 ### 🤝 **Let’s Connect!**
 Always open to new ideas, collaboration, or just a good book rec. If you’d like to chat about tech or think I’d be a great fit for your team, reach out!
