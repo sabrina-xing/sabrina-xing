@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Sabrina
 
-I'm in my third year of **Computer Science** at the University of Waterloo, actively seeking **Summer 2026** **Software Engineering Internship** opportunities to contribute to impactful projects, gain hands-on experience, and further develop my technical expertise.
+I'm in my fourth year of **Computer Science** at the University of Waterloo, actively seeking **Summer 2026** **Software Engineering Internship** opportunities to contribute to impactful projects, gain hands-on experience, and further develop my technical expertise.
 
 ### 🌟 Experience:
 - **Ultimate Kronos Group**: Improved a **Spring-based** HR platform by resolving backend defects, writing unit tests, and managing **Kubernetes** environments
