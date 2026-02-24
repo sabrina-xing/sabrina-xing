@@ -3,7 +3,8 @@
 I'm in my fourth year of **Computer Science** at the University of Waterloo, actively seeking **Summer 2026** **Software Engineering Internship** opportunities to contribute to impactful projects, gain hands-on experience, and further develop my technical expertise.
 
 ### 🌟 Experience:
-- **Ultimate Kronos Group**: Improved a **Spring-based** HR platform by resolving backend defects, writing unit tests, and managing **Kubernetes** environments
+- **Justworks**: Implemented features for Typescript and Ruby on Rails HR platform
+-  **Ultimate Kronos Group**: Improved a **Spring-based** HR platform by resolving backend defects, writing unit tests, and managing **Kubernetes** environments
 - **AlertDriving**: Developed and optimized a **Python-based** driver training platform, with API and database integration.
 - **Marsh McLennan**: Developed workflow apps using **MERN stack** (MongoDB, Express, React, Node.js), focusing on automation.
 - **KEEPLabs**: Led **AI-driven project** using **Python**, **GPT-3**, and **React Native** for mobile development.
