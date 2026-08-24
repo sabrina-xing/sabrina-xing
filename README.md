@@ -4,7 +4,7 @@ I'm in my fourth year of **Computer Science** at the University of Waterloo, act
 
 ### 🌟 Experience:
 - **StackAdapt**: Owned Onboarding Feature on RoR and Typescript Adtech platform
-- **Justworks**: Implemented features for Typescript and Ruby on Rails HR platform
+- **Justworks**: Implemented features for **Typescript** and **Ruby on Rails** HR platform
 -  **Ultimate Kronos Group**: Improved a **Spring-based** HR platform by resolving backend defects, writing unit tests, and managing **Kubernetes** environments
 - **AlertDriving**: Developed and optimized a **Python-based** driver training platform, with API and database integration.
 - **Marsh McLennan**: Developed workflow apps using **MERN stack** (MongoDB, Express, React, Node.js), focusing on automation.
